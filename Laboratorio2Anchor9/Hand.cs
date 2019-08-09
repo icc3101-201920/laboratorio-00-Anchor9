@@ -6,5 +6,7 @@ namespace Laboratorio2Anchor9
 {
     class Hand
     {
+        private List combatCard;
+        private List pecialCard;
     }
 }

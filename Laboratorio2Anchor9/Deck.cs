@@ -6,6 +6,7 @@ namespace Laboratorio2Anchor9
 {
     class Deck
     {
-
+        private List combatCard;
+        private List pecialCard;
     }
 }
