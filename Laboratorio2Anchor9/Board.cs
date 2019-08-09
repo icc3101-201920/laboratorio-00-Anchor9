@@ -13,7 +13,7 @@ namespace Laboratorio2Anchor9
         private specialCard specialRangeCards;
         private specialCard specialLongRangeCards;
         private List captainCards;
-        private List weatherCards;
+        private List weatherCards;
 
     }
 }
